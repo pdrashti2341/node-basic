@@ -1,0 +1,12 @@
+var a=10;
+var b=2;
+var sum = a+b;
+console.log("sum is= " + sum);
+var sub=a-b;
+console.log("sum is=" + sub);
+var mul = a*b;
+console.log("mul is=" + mul);
+var div = a/b;
+console.log("div is="+div);
+var mod=a%b;
+console.log("mod is=" + mod);
